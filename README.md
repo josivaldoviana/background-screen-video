@@ -1,2 +1,3 @@
-# background-screen-video
- Awesome background video with hover effects
+# Fundo dinâmico usando um vídeo e efeitos hover
+
+Apenas HTML e CSS
